@@ -1,24 +1,76 @@
-# 💫 About Me:
-Hi there, I am George,
-a cybersecurity professional with a background in incident response, phishing detection, and log analysis. My passion lies in building tools that detect threats, analyze suspicious behavior, and map activity to frameworks like MITRE ATT&CK. I’m currently building a hands-on portfolio that demonstrates real-world skills — one Python script at a time.
+# 👋 Hi there, I’m George — Cybersecurity Enthusiast | Blue Team Focused | Python Coder
 
-🔭 I’m currently working on<br>- Building **PhishyMail**, a phishing email detection tool using rule-based and NLP techniques<br>- A **Log Analysis & Threat Detection** tool mapping suspicious activity to the MITRE ATT&CK framework<br>- Expanding my **cybersecurity portfolio** with real-world inspired detection and analysis projects<br>👯 I’m looking to collaborate on<br>- Open-source cybersecurity projects, especially related to **threat detection**, **incident response**, or **SIEM integration**<br>- Creating beginner-friendly resources for aspiring blue teamers<br>🤝 I’m looking for help with<br>- Enhancing phishing detection logic with smarter algorithms or community-sourced rules<br>- Optimizing log analysis workflows and integrating Sigma rules<br>🌱 I’m currently learning<br>- **CompTIA Security+** and advancing my knowledge of **threat hunting**, **SIEM tools**, and **cloud security**<br>- How to build **more effective detection pipelines** for blue team environments<br>💬 Ask me about<br>- Threat detection, phishing analysis, log parsing, SIEM basics, or cybersecurity career transitions from non-technical roles<br>⚡ Fun fact<br>Before diving into cybersecurity, I led a 15-person hospitality team — now I lead detection rules and Python scripts with the same passion for precision.
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giwrgos_lazai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/George Lazai) 
-
-# 💻 Tech Stack:
-![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=glazai&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=glazai&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=glazai&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=glazai&limit=5&theme=dark&combine_all_yearly_contributions=true)
+I'm a cybersecurity professional with a background in incident response, phishing detection, and log analysis. My passion lies in building tools that detect threats, analyze suspicious behavior, and map activity to frameworks like MITRE ATT&CK. I’m currently building a hands-on portfolio that demonstrates real-world skills — one Python script at a time.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=glazai&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+🔭 I’m currently working on:
+- **PhishyMail**: A phishing detection tool that uses NLP and rules to flag suspicious emails
+- **MITRE ATT&CK Mapping Project**: Detecting TTPs through log analysis and mapping findings
+- **Wine Stock Manager**: A Python GUI app for managing catering stock data (because I like wine too 🍷)
+
+👯 I’m looking to collaborate on:
+- Cybersecurity tools (SIEM, detection rules, phishing detection, alert automation)
+- Blue team educational resources or beginner-friendly open source projects
+
+🤝 I’m looking for help with:
+- Building smarter phishing detection logic (e.g., ML models, feature engineering)
+- Writing or improving Sigma/YARA detection rules
+
+🌱 I’m currently learning:
+- **CompTIA Security+** – studying through TryHackMe and Professor Messer
+- Cloud security fundamentals, and deepening my Python scripting skills for infosec
+
+💬 Ask me about:
+- Threat detection, phishing indicators, log analysis, MITRE ATT&CK, or transitioning to cybersecurity from non-tech roles
+
+⚡ Fun fact:
+I used to manage a team of 15 in a college dining hall — now I manage detection rules, Python loops, and suspicious `.eml` files 😄
+
+---
+
+## 🧰 Tech Stack
+
+**Languages & Scripting:**  
+`Python` `C` `C++` `x86 Assembly`
+
+**Tools & Platforms:**  
+`Kali Linux` `Burp Suite` `Metasploit` `Wireshark` `Nmap` `TryHackMe` `Wazuh`
+
+**Concepts & Interests:**  
+`Threat Detection` `Phishing Analysis` `Log Analysis` `MITRE ATT&CK` `SIEM` `Incident Response`
+
+---
+
+## 🔨 Featured Projects
+
+### 🔐 [PhishyMail](https://github.com/glazai/phishymail)
+> A Python-based phishing email detector that analyzes `.eml` files for threats.
+
+- Rule-based engine with NLP (urgency detection, spoofing, suspicious URLs, etc.)
+- Risk scoring and severity tagging
+- Supports regex pattern matching and user-defined blacklist rules
+- Detects HTML `<form>` elements and verifies SPF/DKIM headers
+
+### 📊 [Log Analysis & MITRE ATT&CK Mapping](https://github.com/glazai/MITRE-ATTACK-Detection)
+> Parses logs and detects suspicious activity, mapping to ATT&CK TTPs (e.g., T1053.005 – Scheduled Tasks)
+
+- Parses system logs (CSV, JSON)
+- Detects key threat behaviors using rule logic
+- Outputs visual summaries of mapped techniques
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/george-lazai)
+- [TryHackMe](https://tryhackme.com/p/jojolazai)
+- 📧 Email: georgelazaj@gmail.com
+
+---
+
+## 🧠 Let’s Learn Together
+
+I’m always open to connecting with other security learners, mentors, and professionals. Whether you're curious about Python scripting for security, blue team tools, or building your own infosec projects — feel free to reach out!
